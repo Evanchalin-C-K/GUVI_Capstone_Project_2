@@ -1,0 +1,6 @@
+Title : True 
+
+Expected options in admin:
+ ['User Management', 'Job', 'Organization', 'Qualifications', 'Nationalities', 'Corporate Banking', 'Configuration'] 
+ Actual options in admin : 
+ ['User Management', 'Job', 'Organization', 'Qualifications', 'More', 'Nationalities', 'Corporate Branding']
